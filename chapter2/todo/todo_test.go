@@ -1,9 +1,9 @@
 package todo_test
 
 import (
+	"clis-in-go/chapter8/todo"
 	"os"
 	"testing"
-	"todo"
 )
 
 func TestAdd(t *testing.T) {

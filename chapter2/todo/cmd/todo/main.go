@@ -2,12 +2,12 @@ package main
 
 import (
 	"bufio"
+	"clis-in-go/chapter8/todo"
 	"flag"
 	"fmt"
 	"io"
 	"os"
 	"strings"
-	"todo"
 )
 
 const FILE_ENV_VAR = "TODO_FILENAME"
